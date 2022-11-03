@@ -1,0 +1,16 @@
+영화순위api
+json
+
+json : java script object notation 자바 스크립트 객체 표기법
+
+list[]
+dictionay(object) {}
+
+＃ for while 차이
+for : 반복횟수가 정해짐
+while:반복횟수가 안정해짐. 모름
+while 조건식
+
+백준
+Python배우기(1~50)-주사위세개
+Python배우기(50~100) - 별찍기
